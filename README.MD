@@ -16,7 +16,7 @@ It includes a sidebar, dashboard cards, and a dark/light mode toggle.
 - Responsive basic UI
 
 ## 🚀 Live Demo
-Netlify Link: (add after deployment)
+Netlify Link: (  https://kaleidoscopic-squirrel-d1641a.netlify.app/  )
 
 ## 📂 GitHub Repository
-GitHub Link: (your repo link)
+GitHub Link: (   https://github.com/Winstar444/FULL_STACK1   )
